@@ -1,6 +1,20 @@
 <img width="1680" height="720" alt="github_banner_final_v3" src="https://github.com/user-attachments/assets/bde40a60-285a-4e73-a6ce-9ca9501c87d6" />
-Prithwis here 👋
+<h1 align="center">Hi 👋, I'm Prithwis</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?...)](...)
+## 🛠 Tech Stack
+- TypeScript
+- Next.js
+- Python
+- FastAPI
+- LangChain
+- PostgreSQL
+- Cloud
 
+## 📫 Connect With Me
+- LinkedIn - www.linkedin.com/in/prithwis-das-8b4a79326
+- Twitter/X - https://x.com/Das11Prithwis
+- Portfolio - https://prithwisai-dev.onrender.com/
+  
 <!--
 **Prithwis-AIAgent/Prithwis-AIAgent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
