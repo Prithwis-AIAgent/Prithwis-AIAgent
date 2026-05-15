@@ -1,6 +1,5 @@
 <img width="1680" height="720" alt="github_banner_final_v3" src="https://github.com/user-attachments/assets/bde40a60-285a-4e73-a6ce-9ca9501c87d6" />
 <h1 align="center">Hi 👋, I'm Prithwis</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?...)](...)
 ## 🛠 Tech Stack
 - TypeScript
 - Next.js
